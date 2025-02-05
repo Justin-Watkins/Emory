@@ -1,0 +1,82 @@
+Season,Game_Number,Date,Time_of_year,Day,effective_day,O_Team,Time_Type2,Month,Weekend,School,start_of_homestand,end_of_homestand,Opening_Day,Holiday,Fourth_of_july,Final_Game,BobbleHead,replica,Day_In_Homestand,star_wars,concert,christian_concert,playoff_odds,delete,afternoon_weekday,afternoon_weekend,Week,weighted_odds,first_homestand,Time_Type
+2019,1,4/1/2019,Opening Day,MON,MON,Chicago Cubs,3,Apr,0,1,1,0,1,0,0,0,0,0,1,0,0,0,26,0,0,0,14,26,1,5
+2019,2,4/3/2019,Opening Homestand,WED,WED,Chicago Cubs,3,Apr,0,1,0,0,0,0,0,0,0,0,2,0,0,0,31,0,0,0,14,62,1,5
+2019,3,4/4/2019,Opening Homestand,THU,THU,Chicago Cubs,3,Apr,0,1,0,0,0,0,0,0,0,0,3,0,0,0,34,0,0,0,14,102,1,5
+2019,4,4/5/2019,Opening Homestand,FRI,FRI,Miami Marlins,3,Apr,1,1,0,0,0,0,0,0,0,0,4,0,0,0,37,0,0,0,14,148,1,3
+2019,5,4/6/2019,Opening Saturday,SAT,SAT,Miami Marlins,3,Apr,1,1,0,0,0,0,0,0,0,0,5,0,0,0,34,0,0,0,14,170,1,3
+2019,6,4/7/2019,Opening Homestand,SUN,SUN,Miami Marlins,1,Apr,1,1,0,1,0,0,0,0,0,0,6,0,0,0,35,0,0,1,14,210,1,1
+2019,7,4/11/2019,April,THU,THU,New York Mets,3,Apr,0,1,1,0,0,0,0,0,0,0,1,0,0,0,39,0,0,0,15,273,0,5
+2019,8,4/12/2019,April,FRI,FRI,New York Mets,3,Apr,1,1,0,0,0,0,0,0,0,0,2,0,0,0,35,0,0,0,15,280,0,3
+2019,9,4/13/2019,April,SAT,SAT,New York Mets,3,Apr,1,1,0,0,0,0,0,0,0,0,3,0,0,0,37,0,0,0,15,333,0,3
+2019,10,4/14/2019,April,SUN,SUN,New York Mets,3,Apr,1,1,0,0,0,0,0,0,0,0,4,0,0,0,43,0,0,0,15,430,0,5
+2019,11,4/16/2019,April,TUE,TUE,Arizona Diamondbacks,3,Apr,0,1,0,0,0,0,0,0,0,0,5,0,0,0,42,0,0,0,16,462,0,5
+2019,12,4/17/2019,April,WED,WED,Arizona Diamondbacks,3,Apr,0,1,0,0,0,0,0,0,0,0,6,0,0,0,37,0,0,0,16,444,0,5
+2019,13,4/18/2019,April,THU,THU,Arizona Diamondbacks,1,Apr,0,1,0,1,0,0,0,0,0,0,7,0,0,0,34,0,1,0,16,442,0,4
+2019,14,4/26/2019,April,FRI,FRI,Colorado Rockies,3,Apr,1,1,1,0,0,0,0,0,1,0,1,0,0,0,37,0,0,0,17,518,0,3
+2019,15,4/27/2019,April,SAT,SAT,Colorado Rockies,3,Apr,1,1,0,0,0,0,0,0,0,0,2,0,0,0,34,0,0,0,17,510,0,3
+2019,16,4/28/2019,April,SUN,SUN,Colorado Rockies,1,Apr,1,1,0,0,0,0,0,0,0,0,3,0,0,0,35,0,0,1,17,560,0,1
+2019,17,4/29/2019,April,MON,MON,San Diego Padres,3,Apr,0,1,0,0,0,0,0,0,0,0,4,0,0,0,40,0,0,0,18,680,0,5
+2019,18,4/30/2019,April,TUE,TUE,San Diego Padres,3,Apr,0,1,0,0,0,0,0,0,0,0,5,0,0,0,36,0,0,0,18,648,0,5
+2019,19,5/1/2019,May School,WED,WED,San Diego Padres,3,May,0,1,0,0,0,0,0,0,0,0,6,0,0,0,35,0,0,0,18,665,0,5
+2019,20,5/2/2019,May School,THU,THU,San Diego Padres,1,May,0,1,0,1,0,0,0,0,0,0,7,0,0,0,36,0,1,0,18,720,0,4
+2019,21,5/14/2019,May School,TUE,TUE,St. Louis Cardinals,3,May,0,1,1,0,0,0,0,0,0,0,1,0,0,0,33,0,0,0,20,693,0,5
+2019,22,5/15/2019,May School,WED,WED,St. Louis Cardinals,3,May,0,1,0,0,0,0,0,0,0,0,2,0,0,0,38,0,0,0,20,836,0,5
+2019,23,5/16/2019,May School,THU,THU,St. Louis Cardinals,3,May,0,1,0,0,0,0,0,0,1,0,3,0,0,0,46,0,0,0,20,1058,0,5
+2019,24,5/17/2019,May School,FRI,FRI,Milwaukee Brewers,3,May,1,1,0,0,0,0,0,0,0,0,4,1,0,0,49,0,0,0,20,1176,0,3
+2019,25,5/18/2019,May School,SAT,SAT,Milwaukee Brewers,3,May,1,1,0,0,0,0,0,0,0,0,5,0,0,0,55,0,0,0,20,1375,0,3
+2019,26,5/19/2019,May School,SUN,SUN,Milwaukee Brewers,1,May,1,1,0,1,0,0,0,0,0,0,6,0,0,0,53,0,0,1,20,1378,0,1
+2019,27,5/28/2019,May No School,TUE,TUE,Washington Nationals,3,May,0,0,1,0,0,0,0,0,0,0,1,0,0,0,62,0,0,0,22,1674,0,5
+2019,28,5/29/2019,May No School,WED,WED,Washington Nationals,3,May,0,0,0,0,0,0,0,0,0,0,2,0,0,0,57,1,0,0,22,1596,0,5
+2019,29,5/31/2019,May No School,FRI,FRI,Detroit Tigers,3,May,1,0,0,0,0,0,0,0,0,0,3,0,0,0,53,0,0,0,22,1537,0,3
+2019,30,6/1/2019,June 1st Half,SAT,SAT,Detroit Tigers,2,Jun,1,0,0,0,0,0,0,0,0,0,4,0,0,0,57,0,0,1,22,1710,0,2
+2019,31,6/2/2019,June 1st Half,SUN,SUN,Detroit Tigers,1,Jun,1,0,0,1,0,0,0,0,0,0,5,0,0,0,60,0,0,1,22,1860,0,1
+2019,32,6/10/2019,June 1st Half,MON,MON,Pittsburgh Pirates,3,Jun,0,0,1,0,0,0,0,0,0,0,1,0,0,0,69,0,0,0,24,2208,0,5
+2019,33,6/11/2019,June 1st Half,TUE,TUE,Pittsburgh Pirates,3,Jun,0,0,0,0,0,0,0,0,1,0,2,0,0,0,74,0,0,0,24,2442,0,5
+2019,34,6/12/2019,June 1st Half,WED,WED,Pittsburgh Pirates,3,Jun,0,0,0,0,0,0,0,0,0,0,3,0,0,0,77,0,0,0,24,2618,0,5
+2019,35,6/13/2019,June 1st Half,THU,THU,Pittsburgh Pirates,1,Jun,0,0,0,0,0,0,0,0,0,0,4,0,0,0,80,0,1,0,24,2800,0,4
+2019,36,6/14/2019,June 1st Half,FRI,FRI,Philadelphia Phillies,3,Jun,1,0,0,0,0,0,0,0,0,0,5,0,0,0,83,0,0,0,24,2988,0,3
+2019,37,6/15/2019,June 1st Half,SAT,SAT,Philadelphia Phillies,3,Jun,1,0,0,0,0,0,0,0,0,0,6,0,0,0,81,0,0,0,24,2997,0,3
+2019,38,6/16/2019,June 2nd Half,SUN,SUN,Philadelphia Phillies,1,Jun,1,0,0,0,0,0,0,0,0,0,7,0,0,0,84,0,0,1,24,3192,0,1
+2019,39,6/17/2019,June 2nd Half,MON,MON,New York Mets,3,Jun,0,0,0,0,0,0,0,0,0,0,8,0,0,0,87,0,0,0,25,3393,0,5
+2019,40,6/18/2019,June 2nd Half,TUE,TUE,New York Mets,3,Jun,0,0,0,0,0,0,0,0,0,0,9,0,0,0,86,0,0,0,25,3440,0,5
+2019,41,6/19/2019,June 2nd Half,WED,WED,New York Mets,3,Jun,0,0,0,1,0,0,0,0,1,0,10,0,0,0,88,0,0,0,25,3608,0,5
+2019,42,7/2/2019,July 4th Week,TUE,TUE,Philadelphia Phillies,3,Jul,0,0,1,0,0,0,0,0,0,0,1,0,0,0,93,0,0,0,27,3906,0,5
+2019,43,7/3/2019,July 4th Week,WED,WED,Philadelphia Phillies,3,Jul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,94,0,0,0,27,4042,0,5
+2019,44,7/4/2019,July 4th,THU,THU,Philadelphia Phillies,3,Jul,0,0,0,0,0,0,1,0,0,0,3,0,0,0,96,0,0,0,27,4224,0,5
+2019,45,7/5/2019,July 4th Week,FRI,FRI,Miami Marlins,3,Jul,1,0,0,0,0,0,0,0,1,0,4,0,0,0,96,0,0,0,27,4320,0,3
+2019,46,7/6/2019,July 4th Week,SAT,SAT,Miami Marlins,2,Jul,1,0,0,0,0,0,0,0,0,0,5,0,1,0,96,1,0,1,27,4416,0,2
+2019,47,7/7/2019,July 4th Week,SUN,SUN,Miami Marlins,1,Jul,1,0,0,1,0,0,0,0,0,0,6,0,0,0,97,0,0,1,27,4559,0,1
+2019,48,7/18/2019,July,THU,THU,Washington Nationals,3,Jul,0,0,1,0,0,0,0,0,0,0,1,0,0,1,97,0,0,0,29,4656,0,5
+2019,49,7/19/2019,July,FRI,FRI,Washington Nationals,3,Jul,1,0,0,0,0,0,0,0,0,0,2,0,0,0,98,0,0,0,29,4802,0,3
+2019,50,7/20/2019,July,SAT,SAT,Washington Nationals,3,Jul,1,0,0,0,0,0,0,0,0,0,3,0,0,0,98,0,0,0,29,4900,0,3
+2019,51,7/21/2019,July,SUN,SUN,Washington Nationals,1,Jul,1,0,0,0,0,0,0,0,0,0,4,0,0,0,98,0,0,1,29,4998,0,1
+2019,52,7/23/2019,July,TUE,TUE,Kansas City Royals,3,Jul,0,0,0,0,0,0,0,0,1,0,5,0,0,0,98,0,0,0,30,5096,0,5
+2019,53,7/24/2019,July,WED,WED,Kansas City Royals,3,Jul,0,0,0,1,0,0,0,0,1,0,6,0,0,0,97,0,0,0,30,5141,0,5
+2019,54,8/1/2019,August No College,THU,THU,Cincinnati Reds,3,Aug,0,0,1,0,0,0,0,0,0,0,1,0,0,0,99,0,0,0,31,5346,0,5
+2019,55,8/2/2019,August No College,FRI,FRI,Cincinnati Reds,3,Aug,1,0,0,0,0,0,0,0,0,0,2,0,0,0,99,0,0,0,31,5445,0,3
+2019,56,8/3/2019,August No College,SAT,SAT,Cincinnati Reds,3,Aug,1,0,0,0,0,0,0,0,0,0,3,0,0,0,99,0,0,0,31,5544,0,3
+2019,57,8/4/2019,August No College,SUN,SUN,Cincinnati Reds,1,Aug,1,0,0,1,0,0,0,0,0,0,4,0,0,0,99,0,0,1,31,5643,0,1
+2019,58,8/13/2019,August College,TUE,TUE,New York Mets,3,Aug,0,1,1,0,0,0,0,0,0,0,1,0,0,0,99,0,0,0,33,5742,0,5
+2019,59,8/14/2019,August College,WED,WED,New York Mets,3,Aug,0,1,0,0,0,0,0,0,0,0,2,0,0,0,100,0,0,0,33,5900,0,5
+2019,60,8/15/2019,August College,THU,THU,New York Mets,3,Aug,0,1,0,0,0,0,0,0,0,0,3,0,0,0,100,0,0,0,33,6000,0,5
+2019,61,8/16/2019,August College,FRI,FRI,Los Angeles Dodgers,3,Aug,1,1,0,0,0,0,0,0,0,0,4,0,0,0,99,0,0,0,33,6039,0,3
+2019,62,8/17/2019,August College,SAT,SAT,Los Angeles Dodgers,3,Aug,1,1,0,0,0,0,0,0,0,0,5,0,0,0,100,0,0,0,33,6200,0,3
+2019,63,8/18/2019,August College,SUN,SUN,Los Angeles Dodgers,1,Aug,1,1,0,0,0,0,0,0,0,0,6,0,0,0,100,0,0,1,33,6300,0,1
+2019,64,8/20/2019,August College,TUE,TUE,Miami Marlins,3,Aug,0,1,0,0,0,0,0,0,0,0,7,0,0,0,100,0,0,0,34,6400,0,5
+2019,65,8/21/2019,August College,WED,WED,Miami Marlins,3,Aug,0,1,0,0,0,0,0,0,0,0,8,0,0,0,100,0,0,0,34,6500,0,5
+2019,66,8/22/2019,August College,THU,THU,Miami Marlins,3,Aug,0,1,0,1,0,0,0,0,0,0,9,0,0,0,100,0,0,0,34,6600,0,5
+2019,67,8/30/2019,August College,FRI,FRI,Chicago White Sox,3,Aug,1,1,1,0,0,0,0,0,1,0,1,0,0,0,100,0,0,0,35,6700,0,3
+2019,68,8/31/2019,August College,SAT,SAT,Chicago White Sox,3,Aug,1,1,0,0,0,0,0,0,0,0,2,0,0,0,100,0,0,0,35,6800,0,3
+2019,69,9/1/2019,September 1st Half,SUN,SAT,Chicago White Sox,2,Sep,1,1,0,0,0,0,0,0,0,0,3,0,1,0,100,0,0,1,35,6900,0,2
+2019,70,9/2/2019,September 1st Half,MON,SUN,Toronto Blue Jays,1,Sep,0,1,0,0,0,0,0,0,0,0,4,0,0,0,100,0,1,0,36,7000,0,4
+2019,71,9/3/2019,September 1st Half,TUE,TUE,Toronto Blue Jays,3,Sep,0,1,0,0,0,0,0,0,0,0,5,0,0,0,100,0,0,0,36,7100,0,5
+2019,72,9/5/2019,September 1st Half,THU,THU,Washington Nationals,3,Sep,0,1,0,0,0,0,0,0,0,0,6,0,0,0,100,0,0,0,36,7200,0,5
+2019,73,9/6/2019,September 1st Half,FRI,FRI,Washington Nationals,3,Sep,1,1,0,0,0,0,0,0,0,0,7,0,0,0,100,0,0,0,36,7300,0,3
+2019,74,9/7/2019,September 1st Half,SAT,SAT,Washington Nationals,3,Sep,1,1,0,0,0,0,0,0,0,0,8,0,0,0,100,0,0,0,36,7400,0,3
+2019,75,9/8/2019,September 1st Half,SUN,SUN,Washington Nationals,1,Sep,1,1,0,1,0,0,0,0,0,0,9,0,0,0,100,0,0,1,36,7500,0,1
+2019,76,9/17/2019,September 2nd Half,TUE,TUE,Philadelphia Phillies,3,Sep,0,1,1,0,0,0,0,0,1,0,1,0,0,0,100,0,0,0,38,7600,0,5
+2019,77,9/18/2019,September 2nd Half,WED,WED,Philadelphia Phillies,3,Sep,0,1,0,0,0,0,0,0,0,0,2,0,0,0,100,0,0,0,38,7700,0,5
+2019,78,9/19/2019,September 2nd Half,THU,THU,Philadelphia Phillies,1,Sep,0,1,0,0,0,0,0,0,0,0,3,0,0,0,100,0,1,0,38,7800,0,4
+2019,79,9/20/2019,September 2nd Half,FRI,FRI,San Francisco Giants,3,Sep,1,1,0,0,0,0,0,0,0,0,4,0,0,0,100,0,0,0,38,7900,0,3
+2019,80,9/21/2019,September 2nd Half,SAT,SAT,San Francisco Giants,3,Sep,1,1,0,0,0,0,0,0,0,0,5,0,0,0,100,0,0,0,38,8000,0,3
+2019,81,9/22/2019,September 2nd Half,SUN,SUN,San Francisco Giants,1,Sep,1,1,0,1,0,0,0,1,0,0,6,0,0,0,100,0,0,1,38,8100,0,1

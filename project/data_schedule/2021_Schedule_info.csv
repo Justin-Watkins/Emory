@@ -1,0 +1,82 @@
+Season,Game_Number,Date,Time_of_year,Day,effective_day,O_Team,Time_Type2,Month,Weekend,School,start_of_homestand,end_of_homestand,Opening_Day,Holiday,Fourth_of_july,Final_Game,BobbleHead,replica,Day_In_Homestand,star_wars,concert,christian_concert,playoff_odds,delete,afternoon_weekday,afternoon_weekend,Week,weighted_odds,first_homestand,Time_Type
+2021,1,4/9/2021,Opening Day,FRI,FRI,Philadelphia Phillies,3,Apr,1,1,1,0,1,0,0,0,0,0,1,0,0,0,56,0,0,0,15,56,1,3
+2021,2,4/10/2021,Opening Saturday,SAT,SAT,Philadelphia Phillies,3,Apr,1,1,0,0,0,0,0,0,0,0,2,0,0,0,60,0,0,0,15,120,1,3
+2021,3,4/11/2021,Opening Homestand,SUN,SUN,Philadelphia Phillies,1,Apr,1,1,0,0,0,0,0,0,0,0,3,0,0,0,57,0,0,1,16,171,1,1
+2021,4,4/12/2021,Opening Homestand,MON,MON,Miami Marlins,3,Apr,0,1,0,0,0,0,0,0,0,0,4,0,0,0,52,0,0,0,16,208,1,5
+2021,5,4/13/2021,Opening Homestand,TUE,TUE,Miami Marlins,3,Apr,0,1,0,0,0,0,0,0,0,0,5,0,0,0,51,0,0,0,16,255,1,5
+2021,6,4/14/2021,Opening Homestand,WED,WED,Miami Marlins,3,Apr,0,1,0,0,0,0,0,0,0,0,6,0,0,0,46,0,0,0,16,276,1,5
+2021,7,4/15/2021,Opening Homestand,THU,THU,Miami Marlins,1,Apr,0,1,0,1,0,0,0,0,0,0,7,0,0,0,51,0,1,0,16,357,1,4
+2021,8,4/23/2021,April,FRI,FRI,Arizona Diamondbacks,3,Apr,1,1,1,0,0,0,0,0,0,0,1,0,0,0,53,0,0,0,17,424,0,3
+2021,9,4/24/2021,April,SAT,SAT,Arizona Diamondbacks,3,Apr,1,1,0,0,0,0,0,0,0,0,2,0,0,0,54,1,0,0,17,486,0,3
+2021,10,4/25/2021,April,SUN,SUN,Arizona Diamondbacks,1,Apr,1,1,0,0,0,0,0,0,0,0,3,0,0,0,44,0,0,1,18,440,0,1
+2021,11,4/26/2021,April,MON,MON,Chicago Cubs,3,Apr,0,1,0,0,0,0,0,0,0,0,4,0,0,0,46,0,0,0,18,506,0,5
+2021,12,4/27/2021,April,TUE,TUE,Chicago Cubs,3,Apr,0,1,0,0,0,0,0,0,0,0,5,0,0,0,50,0,0,0,18,600,0,5
+2021,13,4/28/2021,April,WED,WED,Chicago Cubs,3,Apr,0,1,0,0,0,0,0,0,0,0,6,0,0,0,55,0,0,0,18,715,0,5
+2021,14,4/29/2021,April,THU,THU,Chicago Cubs,3,Apr,0,1,0,1,0,0,0,0,0,0,7,0,0,0,50,0,0,0,18,700,0,5
+2021,15,5/7/2021,May School,FRI,FRI,Philadelphia Phillies,3,May,1,1,1,0,1,0,0,0,0,0,1,0,0,0,33,0,0,0,19,495,0,3
+2021,16,5/8/2021,May School,SAT,SAT,Philadelphia Phillies,3,May,1,1,0,0,0,0,0,0,0,0,2,0,0,0,36,0,0,0,19,576,0,3
+2021,17,5/9/2021,May School,SUN,SUN,Philadelphia Phillies,1,May,1,1,0,0,0,0,0,0,0,0,3,0,0,0,41,0,0,1,20,697,0,1
+2021,18,5/11/2021,May School,TUE,TUE,Toronto Blue Jays,3,May,0,1,0,0,0,0,0,0,0,0,4,0,0,0,36,0,0,0,20,648,0,5
+2021,19,5/12/2021,May School,WED,WED,Toronto Blue Jays,3,May,0,1,0,0,0,0,0,0,0,0,5,0,0,0,32,0,0,0,20,608,0,5
+2021,20,5/13/2021,May School,THU,THU,Toronto Blue Jays,1,May,0,1,0,1,0,0,0,0,0,0,6,0,0,0,30,0,1,0,20,600,0,4
+2021,21,5/17/2021,May School,MON,MON,New York Mets,3,May,0,1,1,0,0,0,0,0,0,0,1,0,0,0,30,0,0,0,21,630,0,5
+2021,22,5/18/2021,May School,TUE,TUE,New York Mets,3,May,0,1,0,0,0,0,0,0,0,0,2,0,0,0,25,0,0,0,21,550,0,5
+2021,23,5/19/2021,May School,WED,WED,New York Mets,3,May,0,1,0,0,0,0,0,0,0,0,3,0,0,0,30,0,0,0,21,690,0,5
+2021,24,5/20/2021,May School,THU,THU,Pittsburgh Pirates,3,May,0,1,0,0,0,0,0,0,0,0,4,0,0,0,27,0,0,0,21,648,0,5
+2021,25,5/21/2021,May School,FRI,FRI,Pittsburgh Pirates,3,May,1,1,0,0,0,0,0,0,0,0,5,0,0,0,33,0,0,0,21,825,0,3
+2021,26,5/22/2021,May School,SAT,SAT,Pittsburgh Pirates,3,May,1,0,0,0,0,0,0,0,0,0,6,0,0,0,36,0,0,0,21,936,0,3
+2021,27,5/23/2021,May School,SUN,SUN,Pittsburgh Pirates,1,May,1,0,0,1,0,0,0,0,1,0,7,0,0,0,39,0,0,1,22,1053,0,1
+2021,28,5/31/2021,May No School,MON,SUN,Washington Nationals,1,May,0,0,1,0,0,0,0,0,0,0,1,0,0,0,24,0,0,1,23,672,0,1
+2021,29,6/1/2021,June 1st Half,TUE,TUE,Washington Nationals,3,Jun,0,0,0,0,0,0,0,0,0,0,2,0,0,0,23,0,0,0,23,667,0,5
+2021,30,6/2/2021,June 1st Half,WED,WED,Washington Nationals,3,Jun,0,0,0,0,0,0,0,0,1,0,3,0,0,0,20,0,0,0,23,600,0,5
+2021,31,6/3/2021,June 1st Half,THU,THU,Washington Nationals,1,Jun,0,0,0,0,0,0,0,0,0,0,4,0,0,0,23,0,1,0,23,713,0,4
+2021,32,6/4/2021,June 1st Half,FRI,FRI,Los Angeles Dodgers,3,Jun,1,0,0,0,0,0,0,0,0,0,5,0,0,0,21,0,0,0,23,672,0,3
+2021,33,6/5/2021,June 1st Half,SAT,SAT,Los Angeles Dodgers,3,Jun,1,0,0,0,0,0,0,0,0,0,6,0,0,0,23,0,0,0,23,759,0,3
+2021,34,6/6/2021,June 1st Half,SUN,SUN,Los Angeles Dodgers,1,Jun,1,0,0,1,0,0,0,0,0,0,7,0,0,0,25,0,0,1,24,850,0,1
+2021,35,6/15/2021,June 1st Half,TUE,TUE,Boston Red Sox,3,Jun,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,0,0,0,25,490,0,5
+2021,36,6/16/2021,June 2nd Half,WED,WED,Boston Red Sox,3,Jun,0,0,0,0,0,0,0,0,1,0,2,0,0,0,12,0,0,0,25,432,0,5
+2021,37,6/17/2021,June 2nd Half,THU,THU,St. Louis Cardinals,3,Jun,0,0,0,0,0,0,0,0,0,0,3,0,0,0,14,0,0,0,25,518,0,5
+2021,38,6/18/2021,June 2nd Half,FRI,FRI,St. Louis Cardinals,3,Jun,1,0,0,0,0,0,0,0,0,0,4,0,0,0,17,0,0,0,25,646,0,3
+2021,39,6/19/2021,June 2nd Half,SAT,SAT,St. Louis Cardinals,3,Jun,1,0,0,0,0,0,0,0,0,0,5,0,0,0,17,1,0,0,25,663,0,3
+2021,40,6/20/2021,June 2nd Half,SUN,SUN,St. Louis Cardinals,1,Jun,1,0,0,1,0,0,0,0,0,0,6,0,0,0,15,0,0,1,26,600,0,1
+2021,41,6/29/2021,June 2nd Half,TUE,TUE,New York Mets,3,Jun,0,0,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,27,492,0,5
+2021,42,6/30/2021,June 2nd Half,WED,WED,New York Mets,3,Jun,0,0,0,0,0,0,0,0,0,0,2,0,0,0,15,0,0,0,27,630,0,5
+2021,43,7/1/2021,July 4th Week,THU,THU,New York Mets,3,Jul,0,0,0,0,0,0,0,0,1,0,3,0,0,0,19,0,0,0,27,817,0,5
+2021,44,7/2/2021,July 4th Week,FRI,FRI,Miami Marlins,3,Jul,1,0,0,0,0,0,0,0,0,0,4,0,0,0,21,0,0,0,27,924,0,3
+2021,45,7/3/2021,July 4th Week,SAT,SAT,Miami Marlins,2,Jul,1,0,0,0,0,0,0,0,0,0,5,0,0,0,16,0,0,0,27,720,0,2
+2021,46,7/4/2021,July 4th,SUN,SAT,Miami Marlins,1,Jul,1,0,0,1,0,0,1,0,0,0,6,0,0,0,18,0,0,1,28,828,0,1
+2021,47,7/16/2021,July,FRI,FRI,Tampa Bay Rays,3,Jul,1,0,1,0,0,0,0,0,0,0,1,0,0,0,8,0,0,0,29,376,0,3
+2021,48,7/17/2021,July,SAT,SAT,Tampa Bay Rays,3,Jul,1,0,0,0,0,0,0,0,0,0,2,0,0,0,14,0,0,0,29,672,0,3
+2021,49,7/18/2021,July,SUN,SUN,Tampa Bay Rays,1,Jul,1,0,0,0,0,0,0,0,0,0,3,0,0,0,10,0,0,1,30,490,0,1
+2021,50,7/19/2021,July,MON,MON,San Diego Padres,3,Jul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,9,1,0,0,30,450,0,5
+2021,51,7/20/2021,July,TUE,TUE,San Diego Padres,3,Jul,0,0,0,0,0,0,0,0,1,0,5,0,0,0,12,0,0,0,30,612,0,5
+2021,52,7/21/2021,July,WED,WED,San Diego Padres,3,Jul,0,0,0,1,0,0,0,0,0,0,6,0,0,0,8,0,0,0,30,416,0,5
+2021,53,7/30/2021,July,FRI,FRI,Milwaukee Brewers,3,Jul,1,0,1,0,0,0,0,0,0,0,1,0,0,0,12,0,0,0,31,636,0,3
+2021,54,7/31/2021,July,SAT,SAT,Milwaukee Brewers,3,Jul,1,0,0,0,0,0,0,0,0,0,2,0,0,0,17,0,0,0,31,918,0,3
+2021,55,8/1/2021,August No College,SUN,SUN,Milwaukee Brewers,1,Aug,1,0,0,1,0,0,0,0,1,0,3,0,0,0,15,0,0,1,32,825,0,1
+2021,56,8/6/2021,August No College,FRI,FRI,Washington Nationals,3,Aug,1,0,1,0,0,0,0,0,0,0,1,0,0,0,30,0,0,0,32,1680,0,3
+2021,57,8/7/2021,August No College,SAT,SAT,Washington Nationals,3,Aug,1,0,0,0,0,0,0,0,0,0,2,0,0,0,24,0,0,0,32,1368,0,3
+2021,58,8/8/2021,August No College,SUN,SUN,Washington Nationals,1,Aug,1,0,0,0,0,0,0,0,0,0,3,0,0,0,26,0,0,1,33,1508,0,1
+2021,59,8/10/2021,August College,TUE,TUE,Cincinnati Reds,3,Aug,0,1,0,0,0,0,0,0,0,0,4,0,0,0,32,0,0,0,33,1888,0,5
+2021,60,8/11/2021,August College,WED,WED,Cincinnati Reds,3,Aug,0,1,0,0,0,0,0,0,0,0,5,0,0,0,37,0,0,0,33,2220,0,5
+2021,61,8/12/2021,August College,THU,THU,Cincinnati Reds,3,Aug,0,1,0,1,0,0,0,0,1,0,6,0,0,0,28,0,0,0,33,1708,0,5
+2021,62,8/23/2021,August College,MON,MON,New York Yankees,3,Aug,0,1,1,0,0,0,0,0,1,0,1,0,0,0,77,0,0,0,35,4774,0,5
+2021,63,8/24/2021,August College,TUE,TUE,New York Yankees,3,Aug,0,1,0,1,0,0,0,0,0,0,2,0,0,0,78,0,0,0,35,4914,0,5
+2021,64,8/27/2021,August College,FRI,FRI,San Francisco Giants,3,Aug,1,1,1,0,0,0,0,0,0,0,3,0,0,0,89,0,0,0,35,5696,0,3
+2021,65,8/28/2021,August College,SAT,SAT,San Francisco Giants,3,Aug,1,1,0,0,0,0,0,0,0,0,4,0,0,0,84,0,0,0,35,5460,0,3
+2021,66,8/29/2021,August College,SUN,SUN,San Francisco Giants,1,Aug,1,1,0,1,0,0,0,0,0,0,5,0,0,0,86,0,0,1,36,5676,0,1
+2021,67,9/7/2021,September 1st Half,TUE,TUE,Washington Nationals,3,Sep,0,1,1,0,0,0,0,0,0,0,1,0,0,0,76,0,0,0,37,5092,0,5
+2021,68,9/8/2021,September 1st Half,WED,WED,Washington Nationals,3,Sep,0,1,0,0,0,0,0,0,0,0,2,0,0,0,74,0,0,0,37,5032,0,5
+2021,69,9/9/2021,September 1st Half,THU,THU,Washington Nationals,3,Sep,0,1,0,0,0,0,0,0,0,0,3,0,0,0,81,0,0,0,37,5589,0,5
+2021,70,9/10/2021,September 1st Half,FRI,FRI,Miami Marlins,3,Sep,1,1,0,0,0,0,0,0,1,0,4,0,0,0,87,0,0,0,37,6090,0,3
+2021,71,9/11/2021,September 1st Half,SAT,SAT,Miami Marlins,3,Sep,1,1,0,0,0,0,0,0,0,0,5,0,0,0,81,0,0,0,37,5751,0,3
+2021,72,9/12/2021,September 1st Half,SUN,SUN,Miami Marlins,1,Sep,1,1,0,0,0,0,0,0,0,0,6,0,0,0,90,0,0,1,38,6480,0,1
+2021,73,9/14/2021,September 1st Half,TUE,TUE,Colorado Rockies,3,Sep,0,1,0,0,0,0,0,0,0,0,7,0,0,0,91,0,0,0,38,6643,0,5
+2021,74,9/15/2021,September 1st Half,WED,WED,Colorado Rockies,3,Sep,0,1,0,0,0,0,0,0,0,0,8,0,0,0,86,0,0,0,38,6364,0,5
+2021,75,9/16/2021,September 2nd Half,THU,THU,Colorado Rockies,1,Sep,0,1,0,1,0,0,0,0,0,0,9,0,0,0,84,1,1,0,38,6300,0,4
+2021,76,9/28/2021,September 2nd Half,TUE,TUE,Philadelphia Phillies,3,Sep,0,1,1,0,0,0,0,0,1,0,1,0,0,0,84,0,0,0,40,6384,0,5
+2021,77,9/29/2021,September 2nd Half,WED,WED,Philadelphia Phillies,3,Sep,0,1,0,0,0,0,0,0,0,0,2,0,0,0,84,0,0,0,40,6468,0,5
+2021,78,9/30/2021,September 2nd Half,THU,THU,Philadelphia Phillies,3,Sep,0,1,0,0,0,0,0,0,0,0,3,0,0,0,84,1,0,0,40,6552,0,5
+2021,79,10/1/2021,September 2nd Half,FRI,FRI,New York Mets,3,Oct,1,1,0,0,0,0,0,0,0,0,4,0,0,0,84,0,0,0,40,6636,0,3
+2021,80,10/2/2021,September 2nd Half,SAT,SAT,New York Mets,3,Oct,1,1,0,0,0,0,0,0,0,0,5,0,0,0,84,0,0,0,40,6720,0,3
+2021,81,10/3/2021,September 2nd Half,SUN,SUN,New York Mets,2,Oct,1,1,0,1,0,0,0,0,0,0,6,0,0,0,84,0,0,1,41,6804,0,2

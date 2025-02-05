@@ -1,0 +1,82 @@
+Season,Game_Number,Date,Time_of_year,Day,effective_day,O_Team,Time_Type2,Month,Weekend,School,start_of_homestand,end_of_homestand,Opening_Day,Holiday,Fourth_of_july,Final_Game,BobbleHead,replica,Day_In_Homestand,star_wars,concert,christian_concert,playoff_odds,delete,afternoon_weekday,afternoon_weekend,Week,weighted_odds,first_homestand,Time_Type
+2018,1,3/29/2018,Opening Day,THU,THU,Philadelphia Phillies,2,Apr,0,1,1,0,1,0,0,0,0,0,1,0,0,0,3,0,1,0,13,3,1,2
+2018,2,3/30/2018,Opening Homestand,FRI,FRI,Philadelphia Phillies,3,Apr,1,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,13,8,1,3
+2018,3,3/31/2018,Opening Saturday,SAT,SAT,Philadelphia Phillies,3,Apr,1,1,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,13,9,1,3
+2018,4,4/2/2018,Opening Homestand,MON,MON,Washington Nationals,3,Apr,0,1,0,0,0,0,0,0,0,0,4,0,0,0,3,0,0,0,14,12,1,5
+2018,5,4/3/2018,Opening Homestand,TUE,TUE,Washington Nationals,3,Apr,0,1,0,0,0,0,0,0,0,0,5,0,0,0,3,0,0,0,14,15,1,5
+2018,6,4/4/2018,Opening Homestand,WED,WED,Washington Nationals,1,Apr,0,1,0,1,0,0,0,0,0,0,6,0,0,0,4,0,1,0,14,24,1,4
+2018,7,4/16/2018,April,MON,MON,Philadelphia Phillies,3,Apr,0,1,1,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,16,42,0,5
+2018,8,4/17/2018,April,TUE,TUE,Philadelphia Phillies,3,Apr,0,1,0,0,0,0,0,0,0,0,2,0,0,0,7,1,0,0,16,56,0,5
+2018,9,4/18/2018,April,WED,WED,Philadelphia Phillies,3,Apr,0,1,0,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,16,54,0,5
+2018,10,4/19/2018,April,THU,THU,New York Mets,3,Apr,0,1,0,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,16,80,0,5
+2018,11,4/20/2018,April,FRI,FRI,New York Mets,3,Apr,1,1,0,0,0,0,0,0,1,0,5,0,0,0,9,0,0,0,16,99,0,3
+2018,12,4/21/2018,April,SAT,SAT,New York Mets,3,Apr,1,1,0,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,16,96,0,3
+2018,13,4/22/2018,April,SUN,SUN,New York Mets,1,Apr,1,1,0,1,0,0,0,0,1,0,7,0,0,0,9,1,0,1,16,117,0,1
+2018,14,5/4/2018,May School,FRI,FRI,San Francisco Giants,3,May,1,1,1,0,0,0,0,0,0,0,1,1,0,0,22,0,0,0,18,308,0,3
+2018,15,5/5/2018,May School,SAT,SAT,San Francisco Giants,3,May,1,1,0,0,0,0,0,0,0,0,2,0,0,0,18,0,0,0,18,270,0,3
+2018,16,5/6/2018,May School,SUN,SUN,San Francisco Giants,1,May,1,1,0,1,0,0,0,0,0,0,3,0,0,0,15,0,0,1,18,240,0,1
+2018,17,5/15/2018,May School,TUE,TUE,Chicago Cubs,3,May,0,1,1,0,0,0,0,0,0,0,1,0,0,0,25,0,0,0,20,425,0,5
+2018,18,5/16/2018,May School,WED,WED,Chicago Cubs,3,May,0,1,0,0,0,0,0,0,0,0,2,0,0,0,23,0,0,0,20,414,0,5
+2018,19,5/17/2018,May School,THU,THU,Chicago Cubs,1,May,0,1,0,0,0,0,0,0,0,0,3,0,0,0,25,1,1,0,20,475,0,4
+2018,20,5/18/2018,May School,FRI,FRI,Miami Marlins,3,May,1,1,0,0,0,0,0,0,0,0,4,0,0,0,28,0,0,0,20,560,0,3
+2018,21,5/19/2018,May School,SAT,SAT,Miami Marlins,3,May,1,1,0,0,0,0,0,0,0,0,5,0,0,0,25,0,0,0,20,525,0,3
+2018,22,5/20/2018,May School,SUN,SUN,Miami Marlins,1,May,1,1,0,1,0,0,0,0,0,0,6,0,0,0,27,0,0,1,20,594,0,1
+2018,23,5/28/2018,May No School,MON,SUN,New York Mets,1,May,0,1,1,0,0,1,0,0,0,0,1,0,1,0,25,0,1,0,22,575,0,4
+2018,24,5/29/2018,May No School,TUE,TUE,New York Mets,3,May,0,1,0,0,0,0,0,0,0,0,2,0,0,0,25,0,0,0,22,600,0,5
+2018,25,5/30/2018,May No School,WED,WED,New York Mets,3,May,0,1,0,0,0,0,0,0,0,0,3,0,0,0,28,0,0,0,22,700,0,5
+2018,26,5/31/2018,May No School,THU,THU,Washington Nationals,3,May,0,0,0,0,0,0,0,0,0,0,4,0,0,0,23,0,0,0,22,598,0,5
+2018,27,6/1/2018,June 1st Half,FRI,FRI,Washington Nationals,3,Jun,1,0,0,0,0,0,0,0,0,0,5,0,0,0,26,0,0,0,22,702,0,3
+2018,28,6/2/2018,June 1st Half,SAT,SAT,Washington Nationals,2,Jun,1,0,0,0,0,0,0,0,0,0,6,0,0,0,32,0,0,1,22,896,0,2
+2018,29,6/3/2018,June 1st Half,SUN,SUN,Washington Nationals,1,Jun,1,0,0,1,0,0,0,0,0,0,7,0,0,0,30,0,0,1,22,870,0,1
+2018,30,6/12/2018,June 1st Half,TUE,TUE,New York Mets,3,Jun,0,0,1,0,0,0,0,0,0,0,1,0,0,0,28,0,0,0,24,840,0,5
+2018,31,6/13/2018,June 1st Half,WED,WED,New York Mets,1,Jun,0,0,0,0,0,0,0,0,0,0,2,0,0,0,32,0,1,0,24,992,0,4
+2018,32,6/14/2018,June 1st Half,THU,THU,San Diego Padres,3,Jun,0,0,0,0,0,0,0,0,0,0,3,0,0,0,36,0,0,0,24,1152,0,5
+2018,33,6/15/2018,June 1st Half,FRI,FRI,San Diego Padres,3,Jun,1,0,0,0,0,0,0,0,1,0,4,0,0,0,40,0,0,0,24,1320,0,3
+2018,34,6/16/2018,June 2nd Half,SAT,SAT,San Diego Padres,2,Jun,1,0,0,0,0,0,0,0,0,0,5,0,0,0,35,0,0,1,24,1190,0,2
+2018,35,6/17/2018,June 2nd Half,SUN,SUN,San Diego Padres,1,Jun,1,0,0,1,0,0,0,0,0,0,6,0,0,0,40,0,0,1,24,1400,0,1
+2018,36,6/22/2018,June 2nd Half,FRI,FRI,Baltimore Orioles ,3,Jun,1,0,1,0,0,0,0,0,0,0,1,0,0,0,46,0,0,0,25,1656,0,3
+2018,37,6/23/2018,June 2nd Half,SAT,SAT,Baltimore Orioles ,2,Jun,1,0,0,0,0,0,0,0,0,0,2,0,1,0,42,0,0,1,25,1554,0,2
+2018,38,6/24/2018,June 2nd Half,SUN,SUN,Baltimore Orioles ,1,Jun,1,0,0,0,0,0,0,0,0,0,3,0,0,0,36,0,0,1,25,1368,0,1
+2018,39,6/25/2018,June 2nd Half,MON,MON,Cincinnati Reds,3,Jun,0,0,0,0,0,0,0,0,0,0,4,0,0,0,41,0,0,0,26,1599,0,5
+2018,40,6/26/2018,June 2nd Half,TUE,TUE,Cincinnati Reds,3,Jun,0,0,0,0,0,0,0,0,0,0,5,0,0,0,45,0,0,0,26,1800,0,5
+2018,41,6/27/2018,June 2nd Half,WED,WED,Cincinnati Reds,1,Jun,0,0,0,1,0,0,0,0,0,0,6,0,0,0,42,0,1,0,26,1722,0,4
+2018,42,7/10/2018,July,TUE,TUE,Toronto Blue Jays,3,Jul,0,0,1,0,0,0,0,0,0,0,1,0,0,0,39,0,0,0,28,1638,0,5
+2018,43,7/11/2018,July,WED,WED,Toronto Blue Jays,3,Jul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,33,0,0,0,28,1419,0,5
+2018,44,7/13/2018,July,FRI,FRI,Arizona Diamondbacks,3,Jul,1,0,0,0,0,0,0,0,0,0,3,0,0,0,39,0,0,0,28,1716,0,3
+2018,45,7/14/2018,July,SAT,SAT,Arizona Diamondbacks,3,Jul,1,0,0,0,0,0,0,0,0,0,4,0,0,0,35,0,0,0,28,1575,0,3
+2018,46,7/15/2018,July,SUN,SUN,Arizona Diamondbacks,1,Jul,1,0,0,1,0,0,0,0,0,0,5,0,0,0,34,0,0,1,28,1564,0,1
+2018,47,7/26/2018,July,THU,THU,Los Angeles Dodgers,3,Jul,0,0,1,0,0,0,0,0,0,0,1,0,1,0,35,0,0,0,30,1645,0,5
+2018,48,7/27/2018,July,FRI,FRI,Los Angeles Dodgers,3,Jul,1,0,0,0,0,0,0,0,0,0,2,0,0,0,31,0,0,0,30,1488,0,3
+2018,49,7/28/2018,July,SAT,SAT,Los Angeles Dodgers,3,Jul,1,0,0,0,0,0,0,0,0,0,3,0,0,0,26,0,0,0,30,1274,0,3
+2018,50,7/29/2018,July,SUN,SUN,Los Angeles Dodgers,1,Jul,1,0,0,0,0,0,0,0,0,0,4,0,0,0,22,0,0,1,30,1100,0,1
+2018,51,7/30/2018,July,MON,MON,Miami Marlins,3,Jul,0,0,0,0,0,0,0,0,0,0,5,0,0,0,28,0,0,0,31,1428,0,5
+2018,52,7/31/2018,July,TUE,TUE,Miami Marlins,3,Jul,0,0,0,0,0,0,0,0,0,0,6,0,0,0,33,0,0,0,31,1716,0,5
+2018,53,8/1/2018,August No College,WED,WED,Miami Marlins,3,Aug,0,1,0,1,0,0,0,0,0,0,7,0,0,0,31,1,0,0,31,1643,0,5
+2018,54,8/10/2018,August No College,FRI,FRI,Milwaukee Brewers,3,Aug,1,1,1,0,0,0,0,0,0,1,1,0,0,0,41,0,0,0,32,2214,0,3
+2018,55,8/11/2018,August No College,SAT,SAT,Milwaukee Brewers,3,Aug,1,1,0,0,0,0,0,0,0,0,2,0,0,0,49,0,0,0,32,2695,0,3
+2018,56,8/12/2018,August No College,SUN,SUN,Milwaukee Brewers,1,Aug,1,1,0,0,0,0,0,0,0,0,3,0,0,0,43,1,0,1,32,2408,0,1
+2018,57,8/13/2018,August College,MON,MON,Miami Marlins,3,Aug,0,1,0,0,0,0,0,0,0,0,4,0,0,0,50,0,0,0,33,2850,0,5
+2018,58,8/14/2018,August College,TUE,TUE,Miami Marlins,3,Aug,0,1,0,0,0,0,0,0,0,0,5,0,0,0,60,0,0,0,33,3480,0,5
+2018,59,8/15/2018,August College,WED,WED,Miami Marlins,3,Aug,0,1,0,0,0,0,0,0,0,0,6,0,0,0,66,0,0,0,33,3894,0,5
+2018,60,8/16/2018,August College,THU,THU,Colorado Rockies,3,Aug,0,1,0,0,0,0,0,0,0,0,7,0,0,0,71,0,0,0,33,4260,0,5
+2018,61,8/17/2018,August College,FRI,FRI,Colorado Rockies,3,Aug,1,1,0,0,0,0,0,0,0,0,8,0,0,0,65,0,0,0,33,3965,0,3
+2018,62,8/18/2018,August College,SAT,SAT,Colorado Rockies,3,Aug,1,1,0,0,0,0,0,0,1,0,9,0,0,0,57,0,0,0,33,3534,0,3
+2018,63,8/19/2018,August College,SUN,SUN,Colorado Rockies,1,Aug,1,1,0,1,0,0,0,0,0,0,10,0,0,1,55,0,0,1,33,3465,0,1
+2018,64,8/28/2018,August College,TUE,TUE,Tampa Bay Rays,3,Aug,0,1,1,0,0,0,0,0,0,0,1,0,0,0,70,0,0,0,35,4480,0,5
+2018,65,8/29/2018,August College,WED,WED,Tampa Bay Rays,3,Aug,0,1,0,0,0,0,0,0,0,0,2,0,0,0,76,0,0,0,35,4940,0,5
+2018,66,8/31/2018,August College,FRI,FRI,Pittsburgh Pirates,3,Aug,1,1,0,0,0,0,0,0,0,0,3,0,1,0,67,0,0,0,35,4422,0,3
+2018,67,9/1/2018,September 1st Half,SAT,SAT,Pittsburgh Pirates,3,Sep,1,1,0,0,0,0,0,0,0,0,4,0,0,0,57,0,0,0,35,3819,0,3
+2018,68,9/2/2018,September 1st Half,SUN,SAT,Pittsburgh Pirates,2,Sep,1,1,0,0,0,0,0,0,0,0,5,0,0,0,67,0,0,1,35,4556,0,2
+2018,69,9/3/2018,September 1st Half,SUN,SUN,Boston Red Sox,1,Sep,0,1,0,0,0,0,0,0,0,0,6,0,0,0,75,0,1,0,36,5175,0,4
+2018,70,9/4/2018,September 1st Half,TUE,TUE,Boston Red Sox,3,Sep,0,1,0,0,0,0,0,0,1,0,7,0,0,0,75,0,0,0,36,5250,0,5
+2018,71,9/5/2018,September 1st Half,WED,WED,Boston Red Sox,1,Sep,0,1,0,1,0,0,0,0,0,0,8,0,0,0,69,0,1,0,36,4899,0,4
+2018,72,9/14/2018,September 1st Half,FRI,FRI,Washington Nationals,3,Sep,1,1,1,0,0,0,0,0,0,0,1,0,0,0,97,0,0,0,37,6984,0,3
+2018,73,9/15/2018,September 1st Half,SAT,SAT,Washington Nationals,3,Sep,1,1,0,0,0,0,0,0,1,0,2,0,0,0,98,0,0,0,37,7154,0,3
+2018,74,9/16/2018,September 2nd Half,SUN,SUN,Washington Nationals,1,Sep,1,1,0,0,0,0,0,0,0,0,3,0,0,0,97,0,0,1,37,7178,0,1
+2018,75,9/17/2018,September 2nd Half,MON,MON,St. Louis Cardinals,3,Sep,0,1,0,0,0,0,0,0,0,0,4,0,0,0,97,0,0,0,38,7275,0,5
+2018,76,9/18/2018,September 2nd Half,TUE,TUE,St. Louis Cardinals,3,Sep,0,1,0,0,0,0,0,0,0,0,5,0,0,0,98,0,0,0,38,7448,0,5
+2018,77,9/19/2018,September 2nd Half,WED,WED,St. Louis Cardinals,1,Sep,0,1,0,0,0,0,0,0,0,0,6,0,0,0,96,0,1,0,38,7392,0,4
+2018,78,9/20/2018,September 2nd Half,THU,THU,Philadelphia Phillies,3,Sep,0,1,0,0,0,0,0,0,0,0,7,0,0,0,96,0,0,0,38,7488,0,5
+2018,79,9/21/2018,September 2nd Half,FRI,FRI,Philadelphia Phillies,3,Sep,1,1,0,0,0,0,0,0,0,0,8,0,0,0,99,0,0,0,38,7821,0,3
+2018,80,9/22/2018,September 2nd Half,SAT,SAT,Philadelphia Phillies,3,Sep,1,1,0,0,0,0,0,0,0,0,9,0,0,0,100,0,0,0,38,8000,0,3
+2018,81,9/23/2018,September 2nd Half,SUN,SUN,Philadelphia Phillies,1,Sep,1,1,0,1,0,0,0,1,0,0,10,0,0,0,100,0,0,1,38,8100,0,1
