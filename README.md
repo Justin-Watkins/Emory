@@ -10,6 +10,9 @@ All required data sets are included and outlined in the following sections. Thes
 
 This project has three deliverables. You or your team will be evaluated relative to the other students or teams in terms of how closely your model matches the ticket sales outcomes contained in the _prediction_data_ folder. _Absolute error_ will be used to rank each team in terms of performance.    
 
+
+__IMPORTANT: Do not enrich your data with information than can not be known before a game takes place. For instance, you can't know the weather for an event in the future until a very short time before the event. This type of data is inappropriate for this exercise. If you have a question, ask. Your model can't win if you use data that you can't know before the game takes place.__
+
 # Deliverables Summary
 
 This project consists of three deliverables:
@@ -97,6 +100,62 @@ This folder contains event-level metadata for each game over several seasons. Al
 ## prediction_data
 
 This folder contains the data sets you will be forecasting. They mimic the data sets contained in _data_sales_ and _data_schedule_. However, they have been slightly modified. Not every feature is included since they would be impossible to know _a priori_ 
+
+Additionally, this folder contains a file called __event_metadata__. Think of this data as a way to analyze old events and decompse sales. Much of this data can't be known before the fact and can't be used in your model. It is here to save you some time in case you want to explore.
+
+- __game_pk:__ Game id
+- __game_type:__ Regular season, playoffs, etc.
+- __game_nbr:__ Number of games that take place on that date.	
+- __double_header:__ Two games played on one date.	
+- __double_header_type:__ Traditional or split	
+- __venue_name:__ Park game was played in	
+- __venue_city:__ City where the park is located
+- __venue_state:__ State where the park is located	
+- __turf_type:__ Grass, artificial, etc.
+- __bis_game_id:__ Id Field
+- __makeup_game_flag:__ Was game rescheduled?	
+- __game_description:__ Short description of 	
+- __game_time_local:__ Scheduled game start time 	
+- __day_night_code:__ Day game or night game flag 	
+- __start_time:__ Actual start time 	
+- __game_status:__ Was the game finished 	
+- __game_elapsed_mins:__ How long did the game take to be played 
+- __home_team:__ Name of home team	
+- __home_team_code:__ Standard code for home team	
+- __home_score:__ Home team runs scored 	
+- __home_hits:__ Home team hits 	
+- __home_errors:__ Home team errors 	
+- __away_team:__ Name of away team	
+- __away_team_code:__ Standard code for away team 	
+- __away_score:__ Away team score 	
+- __away_hits:__ Away team hits 	
+- __away_errors:__ Away team errors	
+- __innings:__ Number of innings in the game  	
+- __temperature:__ Temperature at start time 	
+- __wind_speed:__ Wind speed at start time
+- __wind_direction:__ Wind direction at start time	
+- __home_series_nbr:__ Series number (varies by season)	
+- __away_series_nbr:__ Series number (varies by season)	
+- __series_game_nbr:__ Game in series (1,2,3,4) 	
+- __series_num_games:__ How many games are in the series	
+- __game_time_home:__ Duplicate game time	
+- __game_time_away:__ Duplicate game time	
+- __wp_last_name:__ Winning pitcher last name	
+- __wp_first_name:__ Winning pitcher first name 	
+- __wp_player_id:__ Winning pitcher id	
+- __wp_team_code:__ Team code for winning pitcher	
+- __wp_wins	wp_losses:__ Winning pitcher game losses	
+- __lp_last_name:__ losing pitcher last name		
+- __lp_first_name:__ losing pitcher first name	
+- __lp_player_id:__ losing pitcher id 	
+- __lp_team_code:__ losing team code	
+- __lp_wins:__ Losing pitcher wins	
+- __lp_losses:__ Losing pitcher losses 	
+- __game_rank_nbr:__ Game order for season
+- __weather_condition:__ Weather description	
+- __game_time:__ UTC game time 	
+- __rescheduled_from:__ Was the game rescheduled from another game?
+
 
 ## Joining the data sets
 
