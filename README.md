@@ -11,7 +11,11 @@ All required data sets are included and outlined in the following sections. Thes
 This project has three deliverables. You or your team will be evaluated relative to the other students or teams in terms of how closely your model matches the ticket sales outcomes contained in the _prediction_data_ folder. _Absolute error_ will be used to rank each team in terms of performance.    
 
 
-__IMPORTANT: Do not enrich your data with information than can not be known before a game takes place. For instance, you can't know the weather for an event in the future until a very short time before the event. This type of data is inappropriate for this exercise. If you have a question, ask. Your model can't win if you use data that you can't know before the game takes place.__
+__IMPORTANT:__
+
+- __Do not enrich your data with information than can not be known before a game takes place. For instance, you can't know the weather for an event in the future until a very short time before the event. This type of data is inappropriate for this exercise. If you have a question, ask. Your model can't win if you use data that you can't know before the game takes place.__
+- __Assume you are forecasting these games months in advance, not the few days before they take place.__
+
 
 # Deliverables Summary
 
@@ -108,13 +112,13 @@ Additionally, this folder contains a file called __event_metadata__. Think of th
 - __game_nbr:__ Number of games that take place on that date.	
 - __double_header:__ Two games played on one date.	
 - __double_header_type:__ Traditional or split	
-- __venue_name:__ Park game was played in	
+- __venue_name:__ Park where game was played
 - __venue_city:__ City where the park is located
 - __venue_state:__ State where the park is located	
 - __turf_type:__ Grass, artificial, etc.
 - __bis_game_id:__ Id Field
 - __makeup_game_flag:__ Was game rescheduled?	
-- __game_description:__ Short description of 	
+- __game_description:__ Short description of the game
 - __game_time_local:__ Scheduled game start time 	
 - __day_night_code:__ Day game or night game flag 	
 - __start_time:__ Actual start time 	
