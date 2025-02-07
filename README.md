@@ -13,7 +13,7 @@ This project has three deliverables. You or your team will be evaluated relative
 
 __IMPORTANT:__
 
-- __Do not enrich your data with information than can not be known before a game takes place. For instance, you can't know the weather for an event in the future until a very short time before the event. This type of data is inappropriate for this exercise. If you have a question, ask. Your model can't win if you use data that you can't know before the game takes place.__
+- __Do not enrich your data with information that can not be known before a game takes place. For instance, you can't know the weather for an event in the future until a very short time before the event. This type of data is inappropriate for this exercise. If you have a question, ask. Your model can't win if you use data that you can't know before the game takes place.__
 - __Assume you are forecasting these games months in advance, not the few days before they take place.__
 
 
